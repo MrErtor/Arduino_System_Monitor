@@ -1,5 +1,6 @@
 # Arduino_System_Monitor
 A project written for fun in one evening =)
+
 For everything to work correctly, install the Python libraries listed below:
 
 Libraries:
